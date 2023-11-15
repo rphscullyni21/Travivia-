@@ -1,4 +1,4 @@
-📍# **Travivia -  Your Passport to Trivia Adventures!**
+# 📍**Travivia -  Your Passport to Trivia Adventures!**
 
 Welcome to Travivia - your ultimate destination for travel-inspired trivia adventures!
 
